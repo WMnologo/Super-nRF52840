@@ -15,15 +15,25 @@ Super52840是Xiao nRF52840的替代产品，他们拥有相同的引脚排列，
 - PWM/模拟引脚： 11/6
 - 板载按键 ： 复位按键
 - 板载LED ： 充电指示灯、三合一三色LED
-- 编程语音 ：Arduino/MicroPython/CircuitPython
+- 编程语言 ：Arduino/MicroPython/CircuitPython
 
-### 原理图
+## 原理图
 
-![](/assets/img/keyboard/keyboard_controll/super52840/6.png)
+<img src="https://github.com/WMnologo/Super52840/blob/main/img/3.png"  />
 
-### 引脚图
+## 引脚图
 
-### 尺寸图
+<img src="https://github.com/WMnologo/Super52840/blob/main/img/1.png"  />
 
-![](/assets/img/keyboard/keyboard_controll/super52840/4.png)
+<img src="https://github.com/WMnologo/Super52840/blob/main/img/2.png"  />
+
+## 尺寸图
+
+<img src="https://github.com/WMnologo/Super52840/blob/main/img/4.png"  />
+
+## PCB封装、3D模型
+
+
+[PCB封装、3D模型](https://github.com/WMnologo/Super52840/tree/main/hardware "")
+
 
