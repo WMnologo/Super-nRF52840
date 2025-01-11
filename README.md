@@ -16,7 +16,13 @@ Super52840 integrates a charging indicator LED and a tri-color LED. It offers 11
 - Onboard Buttons: Reset button
 - Onboard LEDs: Charging indicator LED, tri-color LED
 - Programming Languages: Arduino, MicroPython, CircuitPython
-- 
+
+## Purchase Link
+
+[TaoBao](https://github.com/WMnologo/Super-nRF52840/blob/main/README_CN.md "")
+
+[AliExpress](https://github.com/WMnologo/Super-nRF52840/blob/main/README_CN.md "")
+  
 ## Schematic
 
 <img src="https://github.com/WMnologo/Super52840/blob/main/img/3.png" />
