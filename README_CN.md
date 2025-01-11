@@ -17,6 +17,13 @@ Super52840 集成了一个充电指示灯和一个三色LED。有11个数字I/O�
 - 板载LED ： 充电指示灯、三合一三色LED
 - 编程语言 ：Arduino/MicroPython/CircuitPython
 
+## 购买链接
+
+[淘宝](https://github.com/WMnologo/Super-nRF52840/blob/main/README_CN.md "")
+
+[速卖通](https://github.com/WMnologo/Super-nRF52840/blob/main/README_CN.md "")
+  
+
 ## 原理图
 
 <img src="https://github.com/WMnologo/Super52840/blob/main/img/3.png"  />
